@@ -79,7 +79,7 @@ class _NextScreenState extends State<NextScreen> {
                   children: [
                     Container(
 
-                      child: Icon(Icons.airline_seat_flat),
+                      child: const Icon(Icons.airline_seat_flat),
                     ),
                     const Text("Меню"),
                   ],

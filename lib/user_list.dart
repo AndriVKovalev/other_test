@@ -37,7 +37,7 @@ class SecondScreen extends StatelessWidget {
                   children: [
                     Container(
 
-                      child: Icon(Icons.airline_seat_flat),
+                      child: const Icon(Icons.airline_seat_flat),
                     ),
                     const Text("Меню"),
                   ],
